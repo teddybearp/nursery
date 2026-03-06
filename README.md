@@ -12,9 +12,12 @@ Parental Medications: PNV
 
 # Delivery Note
 
-```
-Delivery attendance requested by Dr. *** for *** due to ***. Infant emerged crying with good tone, brought to warmer and had spontaneous cry, received warming, drying, and stimulation with bulb suctioning of mouth and nose. Parents updated in the delivery room. 
-```
+## Dont know OB
+
 ```
 Delivery attended due to ***. Infant emerged crying with good tone, brought to warmer and had spontaneous cry, received warming, drying, and stimulation with bulb suctioning of mouth and nose. Parents updated in the delivery room. 
+```
+## Do know OB
+```
+Delivery attendance requested by Dr. *** for *** due to ***. Infant emerged crying with good tone, brought to warmer and had spontaneous cry, received warming, drying, and stimulation with bulb suctioning of mouth and nose. Parents updated in the delivery room. 
 ```
