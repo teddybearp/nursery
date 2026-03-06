@@ -1,8 +1,8 @@
 # Maternal Hx
 
 ```
-Third Trimester: syphilis neg, HIV neg *
 1 hr GTT * mg/dL
+Third Trimester: syphilis neg, HIV neg *
 Admission Labs: syphilis neg, HBsAg neg *
 Admission type/screen: ab neg *
 
