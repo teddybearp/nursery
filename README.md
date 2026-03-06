@@ -16,7 +16,12 @@ Parental Medications: PNV
 
 ```
 
-Delivery was attended due to ***. The infant started crying soon after birth with good tone and was brought to the warmer. The newborn received routine warming, drying, and tactile stimulation. Bulb suctioning of the mouth and nose was performed to clear secretions. The infant transitioned well with no immediate resuscitation required beyond standard newborn care. Parents were *** updated regarding the infant's condition in the delivery room and were able to see and touch the baby shortly after birth. No complications noted during initial stabilization.
+Delivery was attended due to ***.
+The infant started crying soon after birth with good tone and was brought to the warmer.
+The newborn received routine warming, drying, and tactile stimulation. Bulb suctioning of the mouth and nose was performed to clear secretions.
+The infant transitioned well with no immediate resuscitation required beyond standard newborn care.
+Parents were *** updated regarding the infant's condition in the delivery room and were able to see and touch the baby shortly after birth.
+No complications noted during initial stabilization.
 
 ```
 
@@ -25,7 +30,12 @@ Delivery was attended due to ***. The infant started crying soon after birth wit
 
 ```
 
-Delivery attendance requested by Dr. *** for *** due to ***. The infant started crying soon after birth with good tone and was brought to the warmer. The newborn received routine warming, drying, and tactile stimulation. Bulb suctioning of the mouth and nose was performed to clear secretions. The infant transitioned well with no immediate resuscitation required beyond standard newborn care. Parents were *** updated regarding the infant's condition in the delivery room and were able to see and touch the baby shortly after birth. No complications noted during initial stabilization.
+Delivery attendance requested by Dr. *** for *** due to ***.
+The infant started crying soon after birth with good tone and was brought to the warmer.
+The newborn received routine warming, drying, and tactile stimulation. Bulb suctioning of the mouth and nose was performed to clear secretions.
+The infant transitioned well with no immediate resuscitation required beyond standard newborn care.
+Parents were *** updated regarding the infant's condition in the delivery room and were able to see and touch the baby shortly after birth.
+No complications noted during initial stabilization.
 
 ```
 
@@ -33,7 +43,8 @@ Delivery attendance requested by Dr. *** for *** due to ***. The infant started 
 
 ```
 
-Due to Breech presentation for this newborn infant, screening hip ultrasound to rule out developmental dysplasia or hip (DDH) should be performed at 46 weeks PMA (corrected age). It can be scheduled between 44 to 48 weeks. Family informed that the pediatrician will order and follow up on the ultrasound. (Ref: Pediatrics (2016) 138 (6): e20163107.)
+Due to Breech presentation for this newborn infant, screening hip ultrasound to rule out developmental dysplasia or hip (DDH) should be performed after 46 weeks PMA (corrected age).
+Family informed that the pediatrician will order and follow up on the ultrasound and to remind them on next visit (Ref: Pediatrics (2016) 138 (6): e20163107.)
 
 
 ```
