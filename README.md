@@ -29,3 +29,10 @@ The infant transitioned well with no immediate resuscitation required beyond sta
 Parents were *** updated regarding the infant's condition in the delivery room and were able to see and touch the baby shortly after birth.
 No complications noted during initial stabilization. 
 ```
+
+## DDH Screening.
+```
+
+Due to Breech presentation for this newborn infant, screening hip ultrasound to rule out developmental dysplasia or hip (DDH) should be deferred until 46 weeks PMA (corrected age). It can be scheduled between 44 to 48 weeks.
+
+```
