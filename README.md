@@ -33,6 +33,6 @@ No complications noted during initial stabilization.
 ## DDH Screening.
 ```
 
-Due to Breech presentation for this newborn infant, screening hip ultrasound to rule out developmental dysplasia or hip (DDH) should be deferred until 46 weeks PMA (corrected age). It can be scheduled between 44 to 48 weeks.
+Due to Breech presentation for this newborn infant, screening hip ultrasound to rule out developmental dysplasia or hip (DDH) should be performed at 46 weeks PMA (corrected age). It can be scheduled between 44 to 48 weeks. Family informed that the pediatrician will order and follow up on the ultrasound. (Ref: Pediatrics (2016) 138 (6): e20163107.)
 
 ```
