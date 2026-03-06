@@ -15,9 +15,17 @@ Parental Medications: PNV
 ## Dont know OB
 
 ```
-Delivery attended due to ***. Infant emerged crying with good tone, brought to warmer and had spontaneous cry, received warming, drying, and stimulation with bulb suctioning of mouth and nose. Parents updated in the delivery room. 
+Delivery was attended due to ***.
+The infant started crying soon after birth with good tone and was brought to the warmer. The newborn received routine warming, drying, and tactile stimulation. Bulb suctioning of the mouth and nose was performed to clear secretions.
+The infant transitioned well with no immediate resuscitation required beyond standard newborn care.
+Parents were *** updated regarding the infant's condition in the delivery room and were able to see and touch the baby shortly after birth.
+No complications noted during initial stabilization. 
 ```
 ## Do know OB
 ```
-Delivery attendance requested by Dr. *** for *** due to ***. Infant emerged crying with good tone, brought to warmer and had spontaneous cry, received warming, drying, and stimulation with bulb suctioning of mouth and nose. Parents updated in the delivery room. 
+Delivery attendance requested by Dr. *** for *** due to ***. 
+The infant started crying soon after birth with good tone and was brought to the warmer. The newborn received routine warming, drying, and tactile stimulation. Bulb suctioning of the mouth and nose was performed to clear secretions.
+The infant transitioned well with no immediate resuscitation required beyond standard newborn care.
+Parents were *** updated regarding the infant's condition in the delivery room and were able to see and touch the baby shortly after birth.
+No complications noted during initial stabilization. 
 ```
