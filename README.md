@@ -48,3 +48,22 @@ Family informed that the pediatrician will order and follow up on the ultrasound
 
 
 ```
+
+## DC Planning.
+
+```
+
+Hearing Screen
+CCHD
+NB screen
+Bili
+Beyfortus
+Car Seat Study.
+Circumcision
+
+Appts
+-Pedi
+-Consultants.
+
+
+```
