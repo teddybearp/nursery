@@ -10,6 +10,34 @@ HSV negative per report
 Parental Medications: PNV
 ```
 
+
+# TPN 
+
+
+
+## <2500 
+
+```
+
+Zinc 400mcg/kg/day, Copper 20mcg/kg/day, Selenium 5mcg/kg/day
+
+```
+```
+
+Carnitine 10 mg/kg/day
+
+```
+```
+
+SMOF 2 gm/kg/day
+```
+
+## >=2500 
+
+```
+Zinc 250mcg/kg/day, Copper 20mcg/kg/day, Selenium 3mcg/kg/day
+```
+
 # Delivery Note
 
 ## Dont know OB
