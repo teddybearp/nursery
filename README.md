@@ -9,6 +9,34 @@ Admission type/screen: ab neg *
 HSV negative per report
 Parental Medications: PNV
 ```
+# Delivery Note
+
+## Dont know OB
+
+```
+
+Delivery was attended due to ***.
+The infant started crying soon after birth with good tone and was brought to the warmer.
+The newborn received routine warming, drying, and tactile stimulation. Bulb suctioning of the mouth and nose was performed to clear secretions.
+The infant transitioned well with no immediate resuscitation required beyond standard newborn care.
+Parents were *** updated regarding the infant's condition in the delivery room and were able to see and touch the baby shortly after birth.
+No complications noted during initial stabilization.
+
+```
+
+
+## Do know OB
+
+```
+
+Delivery attendance requested by Dr. *** for *** due to ***.
+The infant started crying soon after birth with good tone and was brought to the warmer.
+The newborn received routine warming, drying, and tactile stimulation. Bulb suctioning of the mouth and nose was performed to clear secretions.
+The infant transitioned well with no immediate resuscitation required beyond standard newborn care.
+Parents were *** updated regarding the infant's condition in the delivery room and were able to see and touch the baby shortly after birth.
+No complications noted during initial stabilization.
+
+```
 
 
 # TPN 
@@ -38,34 +66,6 @@ SMOF 2 gm/kg/day
 Zinc 250mcg/kg/day, Copper 20mcg/kg/day, Selenium 3mcg/kg/day
 ```
 
-# Delivery Note
-
-## Dont know OB
-
-```
-
-Delivery was attended due to ***.
-The infant started crying soon after birth with good tone and was brought to the warmer.
-The newborn received routine warming, drying, and tactile stimulation. Bulb suctioning of the mouth and nose was performed to clear secretions.
-The infant transitioned well with no immediate resuscitation required beyond standard newborn care.
-Parents were *** updated regarding the infant's condition in the delivery room and were able to see and touch the baby shortly after birth.
-No complications noted during initial stabilization.
-
-```
-
-
-## Do know OB
-
-```
-
-Delivery attendance requested by Dr. *** for *** due to ***.
-The infant started crying soon after birth with good tone and was brought to the warmer.
-The newborn received routine warming, drying, and tactile stimulation. Bulb suctioning of the mouth and nose was performed to clear secretions.
-The infant transitioned well with no immediate resuscitation required beyond standard newborn care.
-Parents were *** updated regarding the infant's condition in the delivery room and were able to see and touch the baby shortly after birth.
-No complications noted during initial stabilization.
-
-```
 
 ## DDH Screening.
 
